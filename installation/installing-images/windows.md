@@ -1,5 +1,6 @@
 # Installing Operating System Images using Windows
 
+- Download the Operating System Image you want to install.
 - Insert the SD card into your SD card reader and check which drive letter was assigned. You can easily see the drive letter (for example `G:`) by looking in the left column of Windows Explorer. You can use the SD Card slot (if you have one) or a cheap SD adaptor in a USB port.
 - Download the Win32DiskImager utility from the [Sourceforge Project page](http://sourceforge.net/projects/win32diskimager/) (it is also a zip file); you can run this from a USB drive.
 - Extract the executable from the zip file and run the `Win32DiskImager` utility; you may need to run the utility as administrator. Right-click on the file, and select **Run as administrator**.
